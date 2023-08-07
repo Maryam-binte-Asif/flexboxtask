@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+
+    font-size:xx-large;
+    font-size: xx-large;
+}
+
+body{
+    background-image: url(workplace-gea0f043bf_1280.jpg);
+background-repeat:no-repeat ;
+background-size: cover;
+flex-basis: 60%;
+
+}
+  
+
+
+
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .item{text-align: justify;
+        padding: 10px;
+        width: 450px;
+        height: auto;
+        height: 300px;
+        margin: 0.5px; 
+      flex-direction: column;
+        background-color:white ;
+border: 3px solid black;
+cursor: pointer;
+
+    }
+
+    .container{
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        justify-content: center;
+        
+        }
+
+        h3{ text-align: center;
+        color:black;
+    text-decoration: underline;
+    text-decoration: white;
+    font-size: xx-large;
+    }
+
+    p{font-size: x-large;
+    text-align: center;}
